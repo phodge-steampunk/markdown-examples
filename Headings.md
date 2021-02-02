@@ -2,13 +2,13 @@
 
 ## The Fellowship of the Ring
 
-### Part One 
+### Book One 
 
 #### Chapter One 
 
 #### Chapter Two 
 
-### Part Two 
+### Book Two 
 
 #### Chapter One 
 
