@@ -13,3 +13,19 @@
 - [Tables](Tables.md)
 - [Links](Links.md)
 - [Images](Images.md)
+
+## Useful Links
+
+### READMEs in Steampunk Foundry
+
+- [agile-playbook](https://github.com/SteampunkFoundry/agile-playbook)
+- [devops-playbook](https://github.com/SteampunkFoundry/devsecops-playbook)
+- [usda-mercury](https://github.com/SteampunkFoundry/usda-mercury/tree/feature/UM-217)
+- [td-GettingStarted](https://github.com/SteampunkFoundry/td-GettingStarted)
+
+### Reference
+
+- [Markdown Reference Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [Emoji Library](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
+
+
