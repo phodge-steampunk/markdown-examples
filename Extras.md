@@ -16,9 +16,11 @@ Find more emojis [here](https://github.com/ikatyang/emoji-cheat-sheet#smileys--e
 
 ## HTML Code 
 
-### Embed a Video 
+### Embed an Image with a Link
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b_2WkJsDQxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.steampunk.com/">
+<img src="https://github.com/SteampunkFoundry/images/raw/master/steampunk_banner-white_pink_on_grey.jfif" alt="steampunk.com" width="400" height="120">
+</a>
 
 ### Colored Text
 
