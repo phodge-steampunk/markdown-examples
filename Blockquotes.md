@@ -7,9 +7,9 @@
 
 ## Blockquote with Multiple Paragraphs
 
-> All that is gold does not flitter, <br>
+> All that is gold does not glitter, <br>
 > Not all those who wander are lost; <br>
-> The old hat is strong does not wither, <br>
+> The old that is strong does not wither, <br>
 > Deep roots are not reached by the frost. 
 > 
 > From the ashes a fire shall be woken, <br>
