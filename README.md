@@ -25,7 +25,7 @@
 
 ### Reference
 
-- [Markdown Reference Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [Markdown Reference Sheet](https://sesolutionsinc.sharepoint.com/sites/capabilities/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fcapabilities%2FShared%20Documents%2FDevSecOps%2FSteampunk%20Foundry%20%28Technical%20Capabilities%29%2FMarkdown%20Reference%20Sheet%2Epdf&parent=%2Fsites%2Fcapabilities%2FShared%20Documents%2FDevSecOps%2FSteampunk%20Foundry%20%28Technical%20Capabilities%29&p=true&originalPath=aHR0cHM6Ly9zZXNvbHV0aW9uc2luYy5zaGFyZXBvaW50LmNvbS86Yjovcy9jYXBhYmlsaXRpZXMvRVdsbkZoREdwcUZIdTBxbTQ5bWowc1lCQU50Z1dObmMzZUQ5TXdqNlF3MHVnUT9ydGltZT1tR3lGUjdYZDJFZw)
 - [Emoji Library](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
 
 
