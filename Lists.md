@@ -45,19 +45,15 @@
 - [ ] The Two Towers
 - [ ] The Return of the King
 
-
 ## Elements within Lists 
 
 * Smeagol
     ![My Precious](https://tinyurl.com/8jz58m3t)
-  
 * Bilbo
-  
   > “It’s a dangerous business, Frodo, 
   > going out your door. 
   > You step onto the road, 
   > and if you don’t keep your feet, 
   > there’s no knowing where you might 
   > be swept off to.”
-
 * Frodo
