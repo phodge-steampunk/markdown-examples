@@ -18,12 +18,22 @@ Find more emojis [here](https://github.com/ikatyang/emoji-cheat-sheet#smileys--e
 
 ### Embed an Image with a Link
 
-<a href="https://www.steampunk.com/">
-<img src="https://github.com/SteampunkFoundry/images/raw/master/steampunk_banner-white_pink_on_grey.jfif" alt="steampunk.com" width="400" height="120">
+<a>
+<img src="https://www.indiewire.com/wp-content/uploads/2021/03/facts-one-ring-lord-of-the-rings.jpg?w=780">
 </a>
 
 ### Colored Text
 
-<h1 style="color:#DA10AB;">This text is Steampunk Pink</h1>
+<p style="color:#CC2603;">You</p> <p style="color:#FF5733;">can</p>
 
-<h1 style="color:#00B0E6;">This text is Steampunk Blue</h1>
+<p style="color:#FFD700;">make</p>
+
+<p style="color:#03CC12;">text</p>
+
+<p style="color:#03CCBD;">any</p>
+
+<p style="color:#2103CC;">color</p>
+
+<p style="color:#8603CC;">you</p>
+
+<p style="color:#FF00FF;">want!</p>
