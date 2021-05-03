@@ -24,16 +24,18 @@ Find more emojis [here](https://github.com/ikatyang/emoji-cheat-sheet#smileys--e
 
 ### Colored Text
 
-<p style="color:#CC2603;">You</p> <p style="color:#FF5733;">can</p>
+<h1 style="color:#CC2603;">You</h1> 
 
-<p style="color:#FFD700;">make</p>
+<h1 style="color:#FF5733;">can</h1>
 
-<p style="color:#03CC12;">text</p>
+<h1 style="color:#FFD700;">make</h1>
 
-<p style="color:#03CCBD;">any</p>
+<h1 style="color:#03CC12;">text</h1>
 
-<p style="color:#2103CC;">color</p>
+<h1 style="color:#03CCBD;">any</h1>
 
-<p style="color:#8603CC;">you</p>
+<h1 style="color:#2103CC;">color</h1>
 
-<p style="color:#FF00FF;">want!</p>
+<h1 style="color:#8603CC;">you</h1>
+
+<h1 style="color:#FF00FF;">want!</h1>
